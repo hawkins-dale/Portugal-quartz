@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T20:30
-modified: 2026-09-24T22:10:17-04:00
+modified: 2026-09-24T22:21:02-04:00
 ---
 
 Remember to always check against the [Bring Back Doors database](https://bringbackdoors.com/hotels-no-doors/?wpbdp_view=search\&kw=lisbon)
@@ -17,24 +17,21 @@ Suggestions from ol' Claudey:
 [[Hotel Britania]]
 
 - \~~**1908 Lisboa Hotel**~~
-
 - ### NO AVAILABILITY
-
-- [[Memmo Príncipe Real]]
 
 ## Central and walkable to transit
 
 [[AlmaLusa BaixaChiado]]
 
+[[Brown's Central Hotel]]
+
 [[Lisboa Carmo Hotel]]
 
 [[Casa Balthasar]]
 
-## Other
+[[Memmo Príncipe Real]]
 
-https://lisbonheritagehotels.com/
-< 300 €
-[[Brown's Central Hotel]]
+## Also interesting
 
 https://www.brownshotelgroup.com/en/browns-central/
 < 300 €
