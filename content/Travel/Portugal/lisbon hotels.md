@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T20:30
-modified: 2026-09-24T22:31:23-04:00
+modified: 2026-09-24T22:35:26-04:00
 ---
 
 Remember to always check against the [Bring Back Doors database](https://bringbackdoors.com/hotels-no-doors/?wpbdp_view=search\&kw=lisbon)
@@ -11,6 +11,7 @@ Suggestions from ol' Claudey:
 ## Atmosphere over convenience
 
 - [[Memmo Alfama]]
+  This one is my first choice
 
 ## Design-forward, with some hills
 
@@ -25,10 +26,12 @@ NO AVAILABILITY
 [[AlmaLusa BaixaChiado]]
 
 [[Brown's Central Hotel]]
+Sounds nice, but **warning warning** they appear on the no-doors database.  Need to ask.
 
 [[Lisboa Carmo Hotel]]
 
 [[Casa Balthasar]]
+I like this one, too
 
 [[Memmo Príncipe Real]]
 
