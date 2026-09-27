@@ -1,20 +1,34 @@
 ---
 publish: true
 created: 2026-09-20T20:39
-modified: 2026-09-24T22:10:29-04:00
+modified: 2026-09-26T19:40:16-04:00
 ---
 
 [[lisbon hotels]]
+
+**RESERVED**
+
+Reservations may be modified or canceled with no costs if the cancellation is made 3 days before your arrival date until 12:00 PM (hotel local time).
+
+## Reservation Summary
+
+Alfama Comfort Room Just for You - Free Cancellation
+
+Reservation: #0669480027
+
+Tue, Oct 27 - Fri, Oct 30
+
+1 Room, 2 Adults
+
+Total stay €692.75
+Bed & BreakfastIncluded
+TaxesVAT Included
 
 Memmo Alfama is a 19th-century building with a rooftop terrace and infinity pool overlooking the Tagus and São Jorge Castle.
 
 The catch is that Alfama (the district) has poor public transport and steep, narrow streets, and one reviewer mentioned that access can be a challenge. You'll be walking to the metro, which is Terreriro do Paço: 450m/10 _hard_ minutes
 [Travelplusstyle](https://www.travelplusstyle.com/magazine/hottest-hotels-lisbon-top-luxury-list-travelplusstyle)
 [Geeky Explorer](https://www.geekyexplorer.com/lisbon-best-areas-to-stay/)
-
-### Rates
-
-==€216/per night with breakfast==
 
 https://www.memmohotels.com/alfama/
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T20:30
-modified: 2026-09-24T22:35:26-04:00
+modified: 2026-09-26T22:27:10-04:00
 ---
 
 Remember to always check against the [Bring Back Doors database](https://bringbackdoors.com/hotels-no-doors/?wpbdp_view=search\&kw=lisbon)
@@ -9,6 +9,8 @@ Remember to always check against the [Bring Back Doors database](https://bringba
 Suggestions from ol' Claudey:
 
 ## Atmosphere over convenience
+
+**BOOKED:**
 
 - [[Memmo Alfama]]
   This one is my first choice
