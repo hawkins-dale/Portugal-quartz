@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-26T02:29:04.789Z
-modified: 2026-09-26T22:32:13-04:00
+modified: 2026-09-27T10:38:22-04:00
 ---
 
 ### Self-Guided Walk
@@ -48,7 +48,7 @@ modified: 2026-09-26T22:32:13-04:00
 
 **Parque das Virtudes**: Good view in the afternoon.
 
-**Foz do Douro**: The beach! 17th-century fortress. Sunsets.
+**Foz do Douro**: The beach! 17th-century fortress [[Torre de Belèm]] . Sunsets.
 
 ### Neighborhoods & Streets
 

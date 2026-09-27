@@ -26,6 +26,7 @@ Penthouse Duplex with A/C @ Flores-Unesco Heritage
 Close to Sâo Bento station
 https://www.airbnb.com/rooms/638491808154864808
 $1,300/ 5 = $260/night
+R. das Flores 89, 4000 Porto, Portugal
 
 ---
 

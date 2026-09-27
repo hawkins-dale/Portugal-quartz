@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-27T21:38
-modified: 2026-09-26T22:43:43-04:00
+modified: 2026-09-27T10:30:38-04:00
 ---
 
 # [[lisbon hotels]]
@@ -25,7 +25,7 @@ Carmo Convent is cool.  10€
 [[Sintra]]
 [[Cascais]]
 
-[[Shit to do in Lisbon]]
+## [[Shit to do in Lisbon]]
 
 # Café Scene
 
@@ -45,7 +45,7 @@ West side:
 
 Center:
 
-- Co-Op Layday. soooooo cool.  R. do Crucifixo 33, 1100-184 Lisboa, Portugal
+- [Co-Op Layday](https://cooplayday.com/). soooooo cool.  R. do Crucifixo 33, 1100-184 Lisboa, Portugal
 - Baoba
 
 **Buy tickets online** to tourist things.
