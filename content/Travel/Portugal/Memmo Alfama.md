@@ -1,10 +1,32 @@
 ---
 publish: true
 created: 2026-09-20T20:39
-modified: 2026-09-26T19:40:16-04:00
+modified: 2026-09-26T19:32:55-04:00
 ---
 
 [[lisbon hotels]]
+
+**RESERVED**
+
+Reservations may be modified or canceled with no costs if the cancellation is made 3 days before your arrival date until 12:00 PM (hotel local time).
+
+## Reservation Summary
+
+Alfama Comfort Room
+
+Just for You - Free Cancellation
+
+Reservation: #0669480027
+
+Tue, Oct 27 - Fri, Oct 30
+
+1 Room, 2 Adults
+
+Total stay €692.75
+
+Bed & BreakfastIncluded
+
+TaxesVAT Included
 
 **RESERVED**
 

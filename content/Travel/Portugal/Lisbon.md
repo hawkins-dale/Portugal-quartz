@@ -1,33 +1,43 @@
 ---
 publish: true
 created: 2026-07-27T21:38
-modified: 2026-09-27T10:30:38-04:00
+modified: 2026-09-27T21:30:00-04:00
 ---
 
-# [[lisbon hotels]]
+## Summary of Lisbon
 
-The museum scene is extraordinary: the Gulbenkian (one of Europe’s underrated great museums), MAAT (contemporary art on the Tagus), the Azulejo museum
+The city stretches along the northern bank of the river Tejo as it flows into the Atlantic Ocean. As the terrain rises north away from the water, steep streets and stairways form the old tangled districts or give way to green parks in the western suburbs.
 
-The hills and miradouros (viewpoints) reward walkers
+In the city centre, the vast Praça do Comércio, facing the river at the base of the pedestrianized grid of Baixa (lower town), occupies a central position. Further northwest from Baixa stretches Lisbon's "Main Street", Avenida da Liberdade, a broad boulevard resplendent in leafy trees, chic hotels and upmarket shops, terminating at the circular Praça de Marques de Pombal.
 
-# [[Lisbon Public Transport]]
+To the east are old districts of Mouraria and **Alfama** (where we live), both relatively spared during the Great Earthquake (as they are on a firmer rock) and therefore both retaining the charm of the winding alleys and _azulejo_-covered crumbling walls (further north lie relatively boring residential quarters).
 
-airport to downtown: taxis are bad.  Consider Ubers/Bolt. But there are taxi lanes.    Uber/Bolt has a designated space
+To the west, the hill rises steeply into Bairro Alto (upper town; prepare to trek up, or take one of the _elevadores_, or funiculars); still further west are the rapidly gentrifying former docks of Alcantara, dominated on the western end by the supports of the gigantic new bridge over the river, and the suburbs of Santo Amaro and Belém.
+
+## [[Lisbon Districts]]
+
+## [[lisbon hotels]]
+
+## [[Lisbon Public Transport]]
+
+### airport to downtown:
+
+[[taxis are bad]].  Consider Ubers/Bolt. But there are taxi lanes.
+
+**Rideshares from the airport to memmo alfama:**
+Uber/Bolt has a designated space.  Book your ride after you find the pick up area as drivers can only remain in that spot for 10 minutes before they get charged. Cars that provide these services are licensed with the Portuguese authorities and carry a white "TVDE" badge on the rear windshield.
 
 Tram 28 has long lines.  Maybe just photograph it from outside
 
-Santa Justa elevator: just walk up
-
-Carmo Convent is cool.  10€
-
-### Day trips from Lisbõa
+## Day trips from Lisbõa
 
 [[Sintra]]
+
 [[Cascais]]
 
 ## [[Shit to do in Lisbon]]
 
-# Café Scene
+### Café Scene
 
 Very cool
 
@@ -48,40 +58,38 @@ Center:
 - [Co-Op Layday](https://cooplayday.com/). soooooo cool.  R. do Crucifixo 33, 1100-184 Lisboa, Portugal
 - Baoba
 
+**Pasteis de Belem:**  go, but note that the line is for takeout.  GO INSIDE and SIT DOWN
+
 **Buy tickets online** to tourist things.
 
-Pasteis de Belem:  go, but note that the line is for takeout.  GO INSIDE and SIT DOWN
+## NO
 
-### NO
-
-- Don't eat in the Baixa district
+- Don't eat in the Baixa district: tourist trash
 - Don't use the tuktuks
 - Try not to speak Spanish
 - Martim Moniz is unsafe
-- Don't buy sardines from tourist traps
+- Don't buy sardines from tourist traps like O Mundo Fantastico.  Buy them at the _supermercado_
 - Do not use Euronet ATMs. Use MB / MultiBanco
 - Be aware of the illegal trade in **tiles**
 
-Sardine stores are overpriced.  O Mundo Fantastico: do not buy sardines there.  Buy them at the supermarket
-
 Strip of restaurants in Chiado: overpriced tourist area.  Consider not on that strip
 
-### Taxis
+## Taxis
 
 Consider Uber and Bolt
 
-### Public Water Fountains
+## Public Water Fountains
 
 everywhere
 
-### Food
+## Food
 
 Go to the Tascas
 
-### Free Walking Tours
+## Free Walking Tours
 
 Or Rick Steves
 
-Lisboa Card
+[[Lisboa Card]]
 
 [[Lisbon to Porto Travel]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-20T23:57:01.081Z
-modified: 2026-09-26T22:24:57-04:00
+modified: 2026-09-26T19:31:33-04:00
 ---
 
 Leave RIC at 6:20pm on Monday the 26th Oct
@@ -11,6 +11,7 @@ Arrive in Lisbon at 9am on Tuesday morning the 27th of Oct
 ---
 
 Spend three nights in Lisbon at the [[Memmo Alfama]]
+at the [[Memmo Alfama]]
 
 check in Tue 27 Oct
 check out fri 30 Oct

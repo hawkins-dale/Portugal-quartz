@@ -1,17 +1,16 @@
 ---
 publish: true
 created: 2026-08-31T22:39
-modified: 2026-09-26T22:57:44-04:00
+modified: 2026-09-27T21:10:01-04:00
 ---
 
-### Metro
+### [[Lisbon Metro]]
 
-From the airport is best
-Navegante card
 Beautiful.  A work of public art. With a ton of interesting art on he wsalls.\
-Big rem M.  Four lines.\
+Big rem M.  Four lines.
+
 **Restauradores** is where you get the train to [[sintra]]
-Must badge IN AND OUT
+Must badge IN _AND OUT_
 
 ### Elétricos (trams)
 
@@ -79,23 +78,3 @@ Tickets: same ticket as local. You get a card: Viva Viagem.  The cart costs half
 **Taxis**. The stand is well-identified.  Ensure that the driver uses the meter. Most are honest.
 
 **TVDE**: Uber and Bolt.  Walk to the "Kiss & Fly".
-
-## Tickets!
-
-A single card: Viva Viagem / 7 Colinas
-
-You.can store a single ticket.  It is individual and reusable.  50 Euro cents. Careful!  It's fragile!
-
-#### You can load a single ticket.
-
-Free transfers within 60 minutes.
-OR
-
-#### 24-hours everything free!
-
-The day ticket works on most modes (but not boats)
-OR
-
-#### Zapping
-
-You put at ledst 3 € on it.  Rides are purchased at a discount
